@@ -10,4 +10,4 @@ I hope everything go well :)
 
 Everything did go great. I've learned new thing about delete branch that is on remote through local terminal. 
 
-$git push origin --delete <branchName>
+$git push origin --delete branchName
